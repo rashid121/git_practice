@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white
+
+}
+h1{
+    font-family: Verdana;
+    color: whitesmoke;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+ p.new a.cta{
+    color: aquamarine;
+   font-size: 16px;
+    text-align: center;
+   
+}
+p.new{
+    margin: 0 auto;
+    width: 300px;
+    
+     margin-bottom: 10px;
+    
+}
+
+video{
+    text-align: center;
+    
+    display: block;
+     margin: 0 auto;
+}
+
+h2{
+color: white;
+    font-size: 42px;
+    text-align: center;
+    font-weight: 300;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.footer p{
+   text-align: right;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.img1{
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.img2{
+    width: 3%
+}
